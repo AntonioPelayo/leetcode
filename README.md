@@ -13,17 +13,17 @@ page
 
 - [ ] Strings: Reverse Integer
 
-- [ ] Linked List: Delete Node in a Linked List 
+- [x] Linked List: Delete Node in a Linked List 
 
 
 ### Difficulty frequency:
-Easy: 3
+Easy: 4
 
 Medium: 0
 
 Hard: 0
 
-Total completed: 3
+Total completed: 4
 
 
 
