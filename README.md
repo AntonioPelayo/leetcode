@@ -1,4 +1,6 @@
 # leetcode
+https://leetcode.com/antoniopelayo/
+
 Leetcode a day keeps the unemployment away.
 
 Commits are due by sunday night.
@@ -17,13 +19,10 @@ page
 
 
 ### Difficulty frequency:
-Easy: 4
+Easy: 5
 
-Medium: 0
+Medium: 1
 
 Hard: 0
 
-Total completed: 4
-
-
-
+Total completed: 6
