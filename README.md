@@ -8,21 +8,21 @@ Commits are due by sunday night.
 Currently working through the 'Top Interview Questions' card on the 'Explore'
 page
 
-## Week 2:
+## Week 3:
 
-### Due Sunday March 8
-- [x] Array: Best Time to Buy and Sell Stock II
+### Due Sunday March 15
+- [ ] Array: Contains Duplicate
 
-- [ ] Strings: Reverse Integer
+- [ ] Strings: Valid Anagram 
 
-- [x] Linked List: Delete Node in a Linked List 
+- [ ] Linked List: Reverse Linked List
 
 
-### Difficulty frequency:
-Easy: 5
+## Completed problem difficulty frequency:
+Easy: 6
 
 Medium: 1
 
 Hard: 0
 
-Total completed: 6
+#### Total completed: 7
