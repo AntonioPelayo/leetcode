@@ -19,10 +19,10 @@ page
 
 
 ## Completed problem difficulty frequency:
-Easy: 6
+Easy: 7
 
-Medium: 1
+Medium: 2
 
 Hard: 0
 
-#### Total completed: 7
+#### Total completed: 9
