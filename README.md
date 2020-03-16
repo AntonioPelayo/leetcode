@@ -11,7 +11,7 @@ page
 ## Week 3:
 
 ### Due Sunday March 15
-- [ ] Array: Contains Duplicate
+- [x] Array: Contains Duplicate
 
 - [ ] Strings: Valid Anagram 
 
@@ -19,10 +19,10 @@ page
 
 
 ## Completed problem difficulty frequency:
-Easy: 7
+Easy: 8
 
 Medium: 2
 
 Hard: 0
 
-#### Total completed: 9
+#### Total completed: 10
