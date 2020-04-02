@@ -1,28 +1,18 @@
-# leetcode
-https://leetcode.com/antoniopelayo/
+# LeetCode Solutions
+Profile: https://leetcode.com/antoniopelayo/
 
-Leetcode a day keeps the unemployment away.
+Google Sheet with completed check list: https://docs.google.com/spreadsheets/d/1RbxlQMVoXbiE2T6vMt4Px8-2kB3Ie_70b1rQDk7c6dM/edit?usp=sharing
 
-Commits are due by sunday night.
-
-Currently working through the 'Top Interview Questions' card on the 'Explore'
-page
-
-## Week 3:
-
-### Due Sunday March 15
-- [x] Array: Contains Duplicate
-
-- [ ] Strings: Valid Anagram 
-
-- [ ] Linked List: Reverse Linked List
-
+This is a repository of my solutions to problems on leetcode.com and their
+submission scores
 
 ## Completed problem difficulty frequency:
-Easy: 8
+Easy: 9
 
 Medium: 2
 
 Hard: 0
 
-#### Total completed: 10
+#### Total completed: 11
+
+I heard that a leetcode a day keeps the unemployment away.
