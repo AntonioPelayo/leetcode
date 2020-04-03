@@ -5,7 +5,7 @@ Card url: https://leetcode.com/explore/interview/card/top-interview-questions-ea
 ## Array
 - [x] Remove Duplicates from Sorted Array  
 - [x] Best Time to Buy and Sell Stock II  
-- [ ] Rotate Array  
+- [x] Rotate Array  
 - [x] Contains Duplicate  
 - [ ] Single Number  
 - [ ] Intersection of Two Arrays II  
@@ -19,7 +19,7 @@ Card url: https://leetcode.com/explore/interview/card/top-interview-questions-ea
 ## Strings
 - [x] Reverse String  
 - [x] Reverse Integer  
-- [ ] First Unique Character in a String  
+- [x] First Unique Character in a String  
 - [ ] Valid Anagram  Valid Palindrome  
 - [ ] String to Integer (atoi)  
 - [ ] Implement strStr()  
