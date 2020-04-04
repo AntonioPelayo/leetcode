@@ -6,6 +6,7 @@ Card url: https://leetcode.com/explore/featured/card/30-day-leetcoding-challenge
 - [x] Single Number
 - [x] Happy Number
 - [x] Maximum Subarray
+- [x] Move Zeros
 
 ## Week 2 April 8 - April 14
 
