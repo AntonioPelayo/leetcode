@@ -5,6 +5,7 @@ Card url: https://leetcode.com/explore/featured/card/30-day-leetcoding-challenge
 ## Week 1 April 1 - April 7
 - [x] Single Number
 - [x] Happy Number
+- [x] Maximum Subarray
 
 ## Week 2 April 8 - April 14
 

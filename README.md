@@ -7,12 +7,10 @@ This is a repository of my solutions to problems on leetcode.com and their
 submission scores
 
 ## Completed problem difficulty frequency:
-Easy: 12 
+Easy: 14 
 
 Medium: 2
 
 Hard: 0
 
-#### Total completed: 14
-
-I heard that a leetcode a day keeps the unemployment away.
+#### Total completed: 16

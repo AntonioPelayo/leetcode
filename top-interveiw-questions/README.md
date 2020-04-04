@@ -7,7 +7,7 @@ Card url: https://leetcode.com/explore/interview/card/top-interview-questions-ea
 - [x] Best Time to Buy and Sell Stock II  
 - [x] Rotate Array  
 - [x] Contains Duplicate  
-- [ ] Single Number  
+- [x] Single Number  
 - [ ] Intersection of Two Arrays II  
 - [ ] Plus One  
 - [ ] Move Zeroes  
@@ -20,7 +20,8 @@ Card url: https://leetcode.com/explore/interview/card/top-interview-questions-ea
 - [x] Reverse String  
 - [x] Reverse Integer  
 - [x] First Unique Character in a String  
-- [ ] Valid Anagram  Valid Palindrome  
+- [x] Valid Anagram 
+- [ ] Valid Palindrome  
 - [ ] String to Integer (atoi)  
 - [ ] Implement strStr()  
 - [ ] Count and Say  
