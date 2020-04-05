@@ -7,10 +7,10 @@ This is a repository of my solutions to problems on leetcode.com and their
 submission scores
 
 ## Completed problem difficulty frequency:
-Easy: 16 
+Easy: 17 
 
-Medium: 2
+Medium: 3
 
 Hard: 0
 
-#### Total completed: 18
+#### Total completed: 20
