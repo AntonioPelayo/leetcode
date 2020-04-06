@@ -7,6 +7,7 @@ Card url: https://leetcode.com/explore/featured/card/30-day-leetcoding-challenge
 - [x] Happy Number
 - [x] Maximum Subarray
 - [x] Move Zeros
+- [x] Best Time to Buy and Sell Stock ii
 
 ## Week 2 April 8 - April 14
 

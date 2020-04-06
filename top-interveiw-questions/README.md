@@ -8,7 +8,7 @@ Card url: https://leetcode.com/explore/interview/card/top-interview-questions-ea
 - [x] Rotate Array  
 - [x] Contains Duplicate  
 - [x] Single Number  
-- [ ] Intersection of Two Arrays II  
+- [x] Intersection of Two Arrays II  
 - [ ] Plus One  
 - [ ] Move Zeroes  
 - [ ] Two Sum  
@@ -30,7 +30,7 @@ Card url: https://leetcode.com/explore/interview/card/top-interview-questions-ea
 
 ## Linked List
 - [x] Delete Node in a Linked List  
-- [ ] Remove Nth Node From End of List  
+- [x] Remove Nth Node From End of List  
 - [ ] Reverse Linked List  
 - [ ] Merge Two Sorted Lists  
 - [ ] Palindrome Linked List  

@@ -7,10 +7,15 @@ This is a repository of my solutions to problems on leetcode.com and their
 submission scores
 
 ## Completed problem difficulty frequency:
-Easy: 17 
+Easy: 18
 
-Medium: 3
+Medium: 4
 
 Hard: 0
 
-#### Total completed: 20
+#### Total completed: 22
+
+Most questions will print solutions to the example problems in the console by running:
+```
+python3 all/7-reverse-integer.py
+```
