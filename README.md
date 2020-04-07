@@ -7,13 +7,13 @@ This is a repository of my solutions to problems on leetcode.com and their
 submission scores
 
 ## Completed problem difficulty frequency:
-Easy: 18
+Easy: 19
 
-Medium: 4
+Medium: 5
 
 Hard: 0
 
-#### Total completed: 22
+#### Total completed: 24
 
 Most questions will print solutions to the example problems in the console by running:
 ```

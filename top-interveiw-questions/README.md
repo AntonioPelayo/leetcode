@@ -31,7 +31,7 @@ Card url: https://leetcode.com/explore/interview/card/top-interview-questions-ea
 ## Linked List
 - [x] Delete Node in a Linked List  
 - [x] Remove Nth Node From End of List  
-- [ ] Reverse Linked List  
+- [x] Reverse Linked List  
 - [ ] Merge Two Sorted Lists  
 - [ ] Palindrome Linked List  
 - [ ] Linked List Cycle
