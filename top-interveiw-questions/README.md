@@ -9,7 +9,7 @@ Card url: https://leetcode.com/explore/interview/card/top-interview-questions-ea
 - [x] Contains Duplicate  
 - [x] Single Number  
 - [x] Intersection of Two Arrays II  
-- [ ] Plus One  
+- [x] Plus One 
 - [ ] Move Zeroes  
 - [ ] Two Sum  
 - [ ] Valid Sudoku  
