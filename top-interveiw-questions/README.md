@@ -10,7 +10,7 @@ Card url: https://leetcode.com/explore/interview/card/top-interview-questions-ea
 - [x] Single Number  
 - [x] Intersection of Two Arrays II  
 - [x] Plus One 
-- [ ] Move Zeroes  
+- [x] Move Zeroes  
 - [ ] Two Sum  
 - [ ] Valid Sudoku  
 - [ ] Rotate Image
@@ -21,7 +21,7 @@ Card url: https://leetcode.com/explore/interview/card/top-interview-questions-ea
 - [x] Reverse Integer  
 - [x] First Unique Character in a String  
 - [x] Valid Anagram 
-- [ ] Valid Palindrome  
+- [x] Valid Palindrome  
 - [ ] String to Integer (atoi)  
 - [ ] Implement strStr()  
 - [ ] Count and Say  

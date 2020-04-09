@@ -12,6 +12,7 @@ Card url: https://leetcode.com/explore/featured/card/30-day-leetcoding-challenge
 - [x] Counting Elements
 
 ## Week 2 April 8 - April 14
+- [x] Middle of the Linked List
 
 ## Week 3 April 15 - April 21
 
