@@ -9,11 +9,11 @@ submission scores
 ## Completed problem difficulty frequency:
 Easy: 25
 
-Medium: 5
+Medium: 7
 
 Hard: 0
 
-#### Total completed: 30
+#### Total completed: 32
 
 Most questions will print solutions to the example problems in the console by running:
 ```
