@@ -15,6 +15,8 @@ Card url: https://leetcode.com/explore/featured/card/30-day-leetcoding-challenge
 - [x] Middle of the Linked List
 - [x] Backspace String Compare
 - [x] Min Stack 
+- [x] Diameter of Binary Tree
+- [x] Last Stone Weight
 
 ## Week 3 April 15 - April 21
 
