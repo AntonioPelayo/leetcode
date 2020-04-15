@@ -6,14 +6,12 @@ Google Sheet with completed check list: https://docs.google.com/spreadsheets/d/1
 This is a repository of my solutions to problems on leetcode.com and their
 submission scores
 
-## Completed problem difficulty frequency:
-Easy: 27
-
-Medium: 7
-
-Hard: 0
-
-#### Total completed: 34
+## Completed Problems
+|        | C++ | Python |    |
+|--------|-----|--------|----|
+| Easy   | 11  | 17     | 28 |
+| Medium | 2   | 6      | 8  |
+|        | 13  | 23     | 36 |
 
 Most questions will print solutions to the example problems in the console by running:
 ```

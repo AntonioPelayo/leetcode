@@ -17,6 +17,8 @@ Card url: https://leetcode.com/explore/featured/card/30-day-leetcoding-challenge
 - [x] Min Stack 
 - [x] Diameter of Binary Tree
 - [x] Last Stone Weight
+- [x] Contiguous Array
+- [x] Perform String Shifts
 
 ## Week 3 April 15 - April 21
 
