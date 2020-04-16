@@ -10,8 +10,8 @@ submission scores
 |        | C++ | Python |    |
 |--------|-----|--------|----|
 | Easy   | 11  | 17     | 28 |
-| Medium | 2   | 6      | 8  |
-|        | 13  | 23     | 36 |
+| Medium | 2   | 7      | 9  |
+|        | 13  | 24     | 37 |
 
 Most questions will print solutions to the example problems in the console by running:
 ```

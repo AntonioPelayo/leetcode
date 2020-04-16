@@ -21,6 +21,7 @@ Card url: https://leetcode.com/explore/featured/card/30-day-leetcoding-challenge
 - [x] Perform String Shifts
 
 ## Week 3 April 15 - April 21
+- [x] Product of Array Except Self
 
 ## Week 4 April 22 - April 28
 
