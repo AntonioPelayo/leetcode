@@ -9,9 +9,9 @@ submission scores
 ## Completed Problems
 |        | C++ | Python |    |
 |--------|-----|--------|----|
-| Easy   | 11  | 17     | 28 |
+| Easy   | 11  | 18     | 29 |
 | Medium | 2   | 7      | 9  |
-|        | 13  | 24     | 37 |
+|        | 13  | 25     | 37 |
 
 Most questions will print solutions to the example problems in the console by running:
 ```
